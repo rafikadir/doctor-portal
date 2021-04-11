@@ -1,0 +1,16 @@
+.info-primary {
+    background-color: #1cc7c1;
+}
+.info-dark {
+    background-color: #3a4256;
+}
+.infoCard {
+    color: #fff;
+    padding: 25px 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.infoCard  .icon {
+    font-size: 50px;
+    margin-right: 25px;
+}

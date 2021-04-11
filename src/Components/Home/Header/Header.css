@@ -1,0 +1,16 @@
+.headerArea {
+    position:relative;
+    background-image: url(../../../Images/chairbg.png);
+    background-size: cover;
+    background-position: center center;
+}
+.headerArea::after {
+    position:absolute;
+    content:'';
+    width: 32%;
+    height: 700px;
+    background: #3a4256;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}

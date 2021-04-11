@@ -1,0 +1,14 @@
+.headerRow {
+    height: 700px;
+}
+.headerText h1 {
+    color: #203047;
+}
+.headerText p {
+    color: #b4b4b4;
+}
+.btn-gradient {
+    background: linear-gradient(90deg, rgba(25,211,179,1) 0%, rgba(16,208,232,1) 100%);
+    color:#fff !important;
+    padding: 10px 20px !important;
+}

@@ -1,0 +1,22 @@
+.serviceHeading {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.serviceHeading h4 {
+    color: #5fc7c7;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.serviceHeading h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.pt-100 {
+    padding-top: 100px;
+}
+.pb-70 {
+    padding-bottom: 70px;
+}

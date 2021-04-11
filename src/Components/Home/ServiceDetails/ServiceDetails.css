@@ -1,0 +1,15 @@
+.serviceCard {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.serviceCard img {
+    margin-bottom: 30px;
+    max-width: 60px;
+}
+.serviceCard h4 {
+    color: #565e69;
+    margin-bottom: 25px;
+}
+.serviceCard p {
+    color: #b4b4b4;
+}
