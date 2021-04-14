@@ -1,0 +1,13 @@
+.featuretext h1{
+    font-size:50px;
+    margin-bottom: 30px;
+    color: #203047;
+}
+.featuretext p {
+    font-size: 18px;
+    color: #b2b2b2;
+    margin-bottom: 40px;
+}
+.featureImage {
+    margin-bottom: 30px;
+}

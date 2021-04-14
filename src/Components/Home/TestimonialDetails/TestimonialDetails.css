@@ -1,0 +1,13 @@
+.testimonial-box {
+    box-shadow: 0 0 10px 0 #ddd;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.testimonial-box p {
+    color: #595762;
+    font-size:18px;
+    margin-bottom: 20px;
+}
+.testimonial-info img {
+    margin-right: 20px;
+}
